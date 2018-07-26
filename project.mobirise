@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "sbs",
-    "currentPage": "index.html",
+    "currentPage": "learn-more.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -33,7 +33,7 @@
       ]
     },
     "versionFirst": "4.0.12",
-    "uniqCompNum": 30,
+    "uniqCompNum": 35,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
